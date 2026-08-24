@@ -1,6 +1,6 @@
 # precios
 
-El 6 de enero de 2003 hice scraping del catálogo completo de productos de los hipermercados españoles Carrefour y Eroski. Por aquel entonces quería hacer un comparador de precios.
+El 6 de enero de 2003 hice _scraping_ del catálogo completo de productos de los hipermercados españoles Carrefour y Eroski. Por aquel entonces quería hacer un comparador de precios.
 
 Por si resultasen útiles a alguien comparto aquí ahora, 23 años más tarde, aquellos resultados.
 
